@@ -1,3 +1,1 @@
-My first readme
-This is a Directory
-up_to_date
+I am a very good ALX student and also a Software Engineer
